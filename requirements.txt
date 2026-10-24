@@ -8,3 +8,4 @@ scikit-learn
 tqdm
 Pillow
 pytest
+h5py
